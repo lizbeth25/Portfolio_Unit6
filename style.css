@@ -1,6 +1,5 @@
     header {
       text-align: center;
-      background: url("images/banner.jpg");
       background-size: cover;
       color: white;
     }
@@ -38,3 +37,7 @@
         display: block;
       }
     }
+  body{
+    background-color: pink;
+  }
+  }
